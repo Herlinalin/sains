@@ -1,0 +1,39 @@
+{
+  "name": "SAINS 301",
+  "short_name": "SAINS301",
+  "scope": "https://sains301.blogspot.com",
+  "start_url": "https://sains301.blogspot.com",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "Sumber Belajar No.1 di Indonesia",
+  "icons": [{
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRJBcB1ZzFsGll-BrF3oWEUdMZwRd7zeKEud7-zXQ0RnmPiKyPAlzEhOhnSX_yOJZSjmZhMHFbnZmefwiVftDClSfjfRUH6zdkiNA3-wfZej1wGKC3PC7Pwz3VA3wi9lkLHsVJGnVef6EN808XeQALBslmhJvNbr0QPGViscOkFlt1OXp_5G9gdtgpeWpk/s48/logo-sains301.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRJBcB1ZzFsGll-BrF3oWEUdMZwRd7zeKEud7-zXQ0RnmPiKyPAlzEhOhnSX_yOJZSjmZhMHFbnZmefwiVftDClSfjfRUH6zdkiNA3-wfZej1wGKC3PC7Pwz3VA3wi9lkLHsVJGnVef6EN808XeQALBslmhJvNbr0QPGViscOkFlt1OXp_5G9gdtgpeWpk/s72/logo-sains301.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRJBcB1ZzFsGll-BrF3oWEUdMZwRd7zeKEud7-zXQ0RnmPiKyPAlzEhOhnSX_yOJZSjmZhMHFbnZmefwiVftDClSfjfRUH6zdkiNA3-wfZej1wGKC3PC7Pwz3VA3wi9lkLHsVJGnVef6EN808XeQALBslmhJvNbr0QPGViscOkFlt1OXp_5G9gdtgpeWpk/s96/logo-sains301.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRJBcB1ZzFsGll-BrF3oWEUdMZwRd7zeKEud7-zXQ0RnmPiKyPAlzEhOhnSX_yOJZSjmZhMHFbnZmefwiVftDClSfjfRUH6zdkiNA3-wfZej1wGKC3PC7Pwz3VA3wi9lkLHsVJGnVef6EN808XeQALBslmhJvNbr0QPGViscOkFlt1OXp_5G9gdtgpeWpk/s144/logo-sains301.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRJBcB1ZzFsGll-BrF3oWEUdMZwRd7zeKEud7-zXQ0RnmPiKyPAlzEhOhnSX_yOJZSjmZhMHFbnZmefwiVftDClSfjfRUH6zdkiNA3-wfZej1wGKC3PC7Pwz3VA3wi9lkLHsVJGnVef6EN808XeQALBslmhJvNbr0QPGViscOkFlt1OXp_5G9gdtgpeWpk/s168/logo-sains301.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRJBcB1ZzFsGll-BrF3oWEUdMZwRd7zeKEud7-zXQ0RnmPiKyPAlzEhOhnSX_yOJZSjmZhMHFbnZmefwiVftDClSfjfRUH6zdkiNA3-wfZej1wGKC3PC7Pwz3VA3wi9lkLHsVJGnVef6EN808XeQALBslmhJvNbr0QPGViscOkFlt1OXp_5G9gdtgpeWpk/s192/logo-sains301.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRJBcB1ZzFsGll-BrF3oWEUdMZwRd7zeKEud7-zXQ0RnmPiKyPAlzEhOhnSX_yOJZSjmZhMHFbnZmefwiVftDClSfjfRUH6zdkiNA3-wfZej1wGKC3PC7Pwz3VA3wi9lkLHsVJGnVef6EN808XeQALBslmhJvNbr0QPGViscOkFlt1OXp_5G9gdtgpeWpk/s512/logo-sains301.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
